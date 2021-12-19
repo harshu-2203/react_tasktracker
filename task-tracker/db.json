@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Marriage Function",
+      "day": "December 25th at 7:00pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "ReactJS Submission",
+      "day": "December 17th at 11:59pm",
+      "reminder": true
+    },
+    {
+      "text": "fjrd",
+      "day": "frf",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
